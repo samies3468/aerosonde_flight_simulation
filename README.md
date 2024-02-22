@@ -32,7 +32,7 @@ gözlemlenir
 - **JOYSTICK CONTROLLER BLOCK:**  <br/> Pilot girdileri ile uçak kontrol yüzeylerinin açılarının ve motor itki düzeyinin değişimini sağlar.<br/>
 - **WIND MODEL BLOCK:** <br/> Gerçekçi bir simülasyon için 3 boyutta sabit hızda rüzgar ve sürekli değişen gust oluşumunu sağlar.<br/>
 - **AERODYNAMIC FORCES AND MOMENTS BLOCK:** <br/> Değişen girdiler ile Aerosonde uçağı için referans alınan aerodinamik bilgileri kullanarak anlık olarak aerodinamik kuvvet ve moment hesaplar.<br/>
-- **6 DOF MODEL BLOCK :** <br/> Hesaplanan aerodinamik kuvvet ve momentleri kullanarak uçağın 3 boyutta hız, aısal hız dolayısıyla konum ve açısal oryantasyonunu hesaplar.<br/>
+- **6 DOF MODEL BLOCK:** <br/> Hesaplanan aerodinamik kuvvet ve momentleri kullanarak uçağın 3 boyutta hız, aısal hız dolayısıyla konum ve açısal oryantasyonunu hesaplar.<br/>
 - **ISA ATMOSPHERE MODEL BLOCK:** <br/> Gerçekçi bir simülasyon için değişen irtifa miktarına göre uygun hava yoğunluğunu hesaplar.<br/>
 - **UNITY CONNECTION UDP BLOCK:** <br/> Uçağı simülasyon ortamında görüntülüyebilmek için elde edilen konum ve açısal oryantasyon bilgilerini UDP bağlantısı kurarak Unity ortamına gönderir.<br/>
 
