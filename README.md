@@ -38,3 +38,6 @@ gözlemlenir
 
 # UNITY 3D 
 ![unity_foto](https://github.com/samies3468/aerosonde_flight_simulation/assets/72666457/7361f30b-0c44-4dde-8330-9b6aeed4512a)
+Dinamiği oluşturulan uçağın, pilot girdilerine göre dinamik olarak görüntülenmesi için gerekli olan ortamın hazırlandığı programdır.
+Uçağı temsil etmesi adına TB2 uçağının CAD çizimi kullanılmıştır. 
+Düzgün bir referenas oluşturması için Unity asset storedan alınan harita ve assetler konfigüre edilerek simülasyon için uygun bir ortam sağlanmıştır. 
