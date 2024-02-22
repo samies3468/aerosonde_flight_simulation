@@ -1,7 +1,9 @@
 # Aerosonde Flight Simulation
 **tl;dr:** <br/>
 Bir İnsansız Hava Aracının dinamiğinin Matlab Simulink ile modellenmesi ve Unity 3D ortamında dinamik olarak simüle edilmesi. <br/>
-**VİDEO**
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // Video Link
 # INTRODUCTION
 Bu proje, "Small Unmanned Aircraft" kitabındaki Aerosonde Unmanned Air
 Vehicle (UAV) uçağının aerodinamik verilerini temel alıyor. Uçağın dinamiği
