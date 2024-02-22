@@ -29,7 +29,7 @@ gözlemlenir
 # MATLAB SIMULINK 
 ![matlab_simulink](https://github.com/samies3468/aerosonde_flight_simulation/assets/72666457/f491f01a-f9e3-4e2b-9f80-65d016bafbb9) <br/>
 <br/>
-- **JOYSTICK CONTROLLER BLOCK:** Pilot girdileri ile uçak kontrol yüzeylerinin açılarının ve motor itki düzeyinin değişimini sağlar.  <br/>
+- **JOYSTICK CONTROLLER BLOCK:**  <br/> Pilot girdileri ile uçak kontrol yüzeylerinin açılarının ve motor itki düzeyinin değişimini sağlar.
 - **WIND MODEL BLOCK:** <br/> Gerçekçi bir simülasyon için 3 boyutta sabit hızda rüzgar ve sürekli değişen gust oluşumunu sağlar.
 - **AERODYNAMIC FORCES AND MOMENTS BLOCK:** <br/> Değişen girdiler ile Aerosonde uçağı için referans alınan aerodinamik bilgileri kullanarak anlık olarak aerodinamik kuvvet ve moment hesaplar.
 - **6 DOF MODEL BLOCK :** <br/> Hesaplanan aerodinamik kuvvet ve momentleri kullanarak uçağın 3 boyutta hız, aısal hız dolayısıyla konum ve açısal oryantasyonunu hesaplar.
