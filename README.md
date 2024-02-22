@@ -5,7 +5,7 @@ Bir İnsansız Hava Aracının dinamiğinin Matlab Simulink ile modellenmesi ve 
 **Requirements:**
 - Unity3d
 - Matlab/Simulink
-<br/>
+
 **VIDEO**
 [<img src="https://i.hizliresim.com/ch1i38h.png" width="100%">](https://youtu.be/sdRNGH1YYHk "Aerosonde Flight Simulation")
 
