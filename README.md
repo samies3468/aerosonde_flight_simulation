@@ -41,3 +41,6 @@ gözlemlenir
 Dinamiği oluşturulan uçağın, pilot girdilerine göre dinamik olarak görüntülenmesi için gerekli olan ortamın hazırlandığı programdır.
 Uçağı temsil etmesi adına TB2 uçağının CAD çizimi kullanılmıştır. 
 Düzgün bir referenas oluşturması için Unity asset storedan alınan harita ve assetler konfigüre edilerek simülasyon için uygun bir ortam sağlanmıştır. 
+UDP bağlantısı ile Simulink üzerinden gönderilen veriler C# dili kullanılarak okunur ve uçak modeliyle
+eşleştirilir. Bu sayede uçağın hareket değişimleri dinamik olarak Unity ortamında gözlemlenir.
+Ekstra olarak uçağın durum değişkenleri anlık olarak ekranda kullanıcının görebileceği şekilde konumlandırılmıştır.
