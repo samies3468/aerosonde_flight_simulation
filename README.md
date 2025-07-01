@@ -7,7 +7,7 @@ Bir İnsansız Hava Aracının dinamiğinin Matlab Simulink ile modellenmesi ve 
 - Matlab/Simulink
 
 **VIDEO**
-[<img src="https://github.com/samies3468/aerosonde_flight_simulation/assets/72666457/f491f01a-f9e3-4e2b-9f80-65d016bafbb9" width="100%">](https://youtu.be/sdRNGH1YYHk "Aerosonde Flight Simulation")
+[<img src="https://i.hizliresim.com/ch1i38h.png" width="100%">](https://youtu.be/sdRNGH1YYHk "Aerosonde Flight Simulation")
 
 # INTRODUCTION
 Bu proje, "Small Unmanned Aircraft" kitabındaki Aerosonde Unmanned Air
